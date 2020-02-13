@@ -282,7 +282,7 @@ Here is a working plan for rolling out this feature:
 - graphql 1.10:
   - ☑ Begin sunsetting `.define`
 - graphql 2.0:
-  - ☐ Remove `.define`
+  - ☑ Remove `.define`
 
 ## Common Type Configurations
 
